@@ -1,7 +1,7 @@
-🚀 Airflow Postgres ETL Project
+🚀 Airflow Postgres EtL(EL) Mini Project
 
 This repository contains Apache Airflow DAGs that demonstrate how to orchestrate data pipelines by creating tables in Postgres and loading CSV files into them.
-The project simulates a simple ETL (Extract, Load) workflow commonly used in real-world Data Engineering.
+The project simulates a simple (Extract, Load) workflow commonly used in real-world Data Engineering.
 
 📂 Project Structure
 
